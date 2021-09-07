@@ -13,6 +13,6 @@ To make the solution better you just need to hit space again
 2 - Mukhairez, H. and Maghari, A. (2015). Performance Comparison of Simulated Annealing, GA and ACO Applied to TSP. International Journal of Intelligent Computing Research, 6(4), pp.647-654.
 
 # Screenshot
-![TSP](https://raw.githubusercontent.com/blm122/Traveling-Salesman-Viz/master/Capture.PNG)
+![TSP](https://raw.githubusercontent.com/blm122/Traveling-Salesman-Viz/master/Capture.png)
 
 
