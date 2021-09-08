@@ -30,7 +30,7 @@ import java.util.stream.Collectors;
 
 /**
  *
- * @author mhrimaz
+ * @author blm122
  */
 public class TSPVisualizationFX extends Application {
 

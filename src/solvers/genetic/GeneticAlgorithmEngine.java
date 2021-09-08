@@ -5,7 +5,7 @@ import solvers.model.Tour;
 
 /**
  *
- * @author mhrimaz
+ * @author blm122
  */
 public class GeneticAlgorithmEngine {
 

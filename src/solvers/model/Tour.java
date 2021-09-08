@@ -8,7 +8,7 @@ import java.util.Collections;
 
 /**
  *
- * @author mhrimaz
+ * @author blm122
  */
 public class Tour implements Comparable<Tour> {
 

@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author mhrimaz
+ * @author blm122
  */
 public class CityManager {
 

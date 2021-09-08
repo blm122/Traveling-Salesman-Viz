@@ -6,7 +6,7 @@ import java.util.Objects;
 
 /**
  *
- * @author mhrimaz
+ * @author blm122
  */
 public class City implements Comparable<City> {
 
